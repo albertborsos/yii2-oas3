@@ -8,7 +8,8 @@
         "yiisoft/yii2": "~2.0",
         "ext-json": "*",
         "zircote/swagger-php": "^3.0 | ^4.0",
-        "bower-asset/swagger-ui": "^3.20"
+        "bower-asset/swagger-ui": "^3.20",
+        "doctrine/annotations": "^2.0"
     },
     "license": "MIT",
     "authors": [
